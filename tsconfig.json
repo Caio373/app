@@ -1,0 +1,1 @@
+{"compilerOptions":{"strict":true,"noEmit":true,"jsx":"react","moduleResolution":"Bundler","target":"ES2020","module":"ESNext","esModuleInterop":true,"skipLibCheck":true},"include":["App.tsx","src/**/*.ts","src/**/*.tsx","src/**/*.d.ts"]}
