@@ -9,3 +9,22 @@ O produto não é um rastreador competitivo de performance. Ele evita métricas 
 ## Documentação inicial
 
 - [Arquitetura de produto, banco de dados, stack e plano de MVP](docs/product-architecture.md)
+
+## Aplicativo MVP
+
+O repositório agora inclui um MVP em React Native/Expo com:
+
+- Home "Sua Árvore Hoje" com crescimento orgânico a partir das quatro áreas diárias.
+- Fluxo de Movimento com prompt pré-caminhada obrigatório e fechamento com insight, emoção e gratidão.
+- Registro offline-first local para Humor, Aprendizado e Vínculo.
+- Histórico semanal acolhedor, sem rankings, calorias, perda de peso ou métricas de pressão.
+
+### Scripts
+
+```bash
+npm install
+npm run typecheck
+npm start
+```
+
+> Observação: no ambiente atual, o `npm install` pode depender de acesso ao registry npm para pacotes Expo/React Native.
